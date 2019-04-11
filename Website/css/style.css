@@ -1,0 +1,26 @@
+/* GENERAL SETTINGS */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Market Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    margin-bottom: 70px; /* Margin bottom by footer height (60px) */
+}
+
+.my_td {
+    border: 1px solid black !important;
+}
+
+.grey {
+    background-color: grey;
+}
+
+.red {
+    background-color: red;
+}
